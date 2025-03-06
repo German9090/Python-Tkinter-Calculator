@@ -189,7 +189,7 @@ After this, your application will display the new name in the window title.
 
 ## Developers
 
-- [German9090](https://github.com/German9090)
+- [NlinsO](https://github.com/NlinsO)
 
 ## License
 This project is licensed under the MIT License.
