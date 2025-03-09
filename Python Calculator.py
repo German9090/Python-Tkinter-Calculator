@@ -54,7 +54,7 @@ def on_eng_click(op):
             "cos": math.cos(math.radians(value)),
             "tan": math.tan(math.radians(value)),
             "log": math.log10(value),
-            "ln": math.log(value)
+            "xʸ": math.log(value)
         }[op]
         entry.insert(0, format_result(float(result)))
     except:
@@ -120,7 +120,7 @@ def switch_mode(node):
     eng_buttons = [
         ('x²', 2, 0), ('√x', 2, 1), ('sin', 2, 2),
         ('cos', 3, 0), ('tan', 3, 1), ('log', 3, 2),
-        ('ln', 4, 0)
+        ('xʸ', 4, 0)
     ]
     
     conv_buttons = [
