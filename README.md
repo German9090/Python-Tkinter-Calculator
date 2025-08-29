@@ -78,7 +78,7 @@ This is a simple calculator application built using Python and the Tkinter libra
      ```
    - Press `Enter` to run the file.
 
-#### Linux
+#### Ubuntu
 
 1. **Open the File**:
    - Open Visual Studio Code.
